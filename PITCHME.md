@@ -28,11 +28,11 @@ niwatakoさんに続き、egapoolさんも東京に・・・
 ## スケジュール
 アイスブレイク     
 19:10  発表開始   
-- hide ogawa POWとPOSその他     
-- egapool  Blockchainのプロジェクト     
-- yuyhiraka POAとgenesis.json      
-- masa MySQL8.0 使いたいからブロックチェーン実装してみた      
-- s_issy jsでブロックチェーンを実装した話 
+- hide ogawa / POWとPOSその他     
+- egapool / Blockchainのプロジェクト     
+- yuyhiraka / POAとgenesis.json      
+- masa / MySQL8.0 使いたいからブロックチェーン実装してみた      
+- s_issy / jsでブロックチェーンを実装した話 
 
 20:50  閉会    
 
