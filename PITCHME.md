@@ -31,7 +31,7 @@ niwatakoさんに続き、egapoolさんも東京に・・・
 hide ogawa POWとPOSその他     
 egapool  Blockchainのプロジェクト     
 yuyhiraka POAとgenesis.json      
-masa MySQL8.0 使いたいからブロックチェーン実装してみた
+masa MySQL8.0 使いたいからブロックチェーン実装してみた      
 s_issy jsでブロックチェーンを実装した話 
 
 20:50  閉会    
